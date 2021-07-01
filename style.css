@@ -2,11 +2,11 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 45px;
     padding: 45px;
-    background: #DEDEDE;
+    background: #e4e1e1;
 }
 
 .title-card {
-    background-color: rgb(229, 229, 229);
+    background-color: #DEDEDE;
     margin: 0 auto;
     width: 400px;
     text-align: center;
