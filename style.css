@@ -27,14 +27,15 @@ h1 {
 }
 
 .mission {
-    margin-right: 25px;
-    padding-right: 25px;
-    width: 40%;
+    margin: 25px;
+    padding: 25px;
+
 }
 
 .services {
-    margin-left: 25px;
-    margin-left: 25px;
+    margin: 25px;
+    margin: 25px;
+
 }
 
 .articles {
