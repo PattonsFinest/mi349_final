@@ -72,3 +72,8 @@ h1 {
 .img-frame {
     float: left;
   }
+
+  article {
+      margin: 25px;
+      padding: 25px;
+  }
