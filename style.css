@@ -22,7 +22,7 @@ h1 {
 .info {
     display: flex;
     justify-content: space-evenly;
-    border-bottom: 5px solid #0000;
+    border-bottom: 5px solid rgb(0,0,0);
 }
 
 .mission {
@@ -43,5 +43,5 @@ h1 {
 .front {
     text-align: center;
     color:#157D4B;
-    border-bottom: 1px solid #0000;
+    border-bottom: 1px solid rgb(0,0,0);
 }
