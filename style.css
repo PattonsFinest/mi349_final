@@ -20,9 +20,9 @@ h1 {
 }
 
 .info {
-    display: flex;
+    display: flexbox;
 }
 
 .articles {
-    display: flex;
+    display: flexbox;
 }
