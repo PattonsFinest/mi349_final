@@ -63,3 +63,12 @@ h1 {
 .art-text {
     line-height: 1.6;
 }
+
+.img-frame {
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    width: 150px;
+    height: 125px;
+  }
