@@ -55,3 +55,8 @@ h1 {
 .list{
     line-height: 2;
 }
+
+.title {
+    color: #157D4B;
+    text-align: center;
+}
