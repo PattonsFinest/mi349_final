@@ -13,3 +13,8 @@ body {
     box-shadow: 10px 5px 5px rgba(0,0,0, 0.5);
     border: 1px solid #aaa;
 }
+
+h1 {
+    color: #157D4B;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
