@@ -36,7 +36,6 @@ h1 {
     margin: 25px;
     padding: 25px;
     width: 500px;
-    line-height: 2;
 }
 
 .articles {
@@ -54,5 +53,5 @@ h1 {
 }
 
 .list{
-    height: 171px;
+    line-height: 2;
 }
