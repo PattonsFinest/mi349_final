@@ -21,6 +21,7 @@ h1 {
 
 .info {
     display: flex;
+    justify-content: space-evenly;
 }
 
 .mission {
@@ -31,4 +32,8 @@ h1 {
 .services {
     margin-left: 25px;
     margin-left: 25px;
+}
+
+.articles {
+    display: flex;
 }
