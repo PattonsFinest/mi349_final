@@ -18,3 +18,11 @@ h1 {
     color: #157D4B;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.info {
+    display: flex;
+}
+
+.articles {
+    display: flex;
+}
